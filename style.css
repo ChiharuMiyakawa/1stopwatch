@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+
+p{
+    font-size: 30px;
+}
+button{
+    /* pointer-events: painted; */
+    width: 100px;
+    height: 40px;
+}
+#timer{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.inactive{
+    opacity: 0.6;
+    pointer-events: none;
+
+}
